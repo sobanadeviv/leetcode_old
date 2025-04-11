@@ -14,4 +14,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/sobanadeviv/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+## Hash Table
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/sobanadeviv/LeetCode/tree/master/0013-roman-to-integer) |
+## Math
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/sobanadeviv/LeetCode/tree/master/0013-roman-to-integer) |
+## String
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/sobanadeviv/LeetCode/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
